@@ -100,14 +100,8 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline="Release Details: The Yeezy BOOST 350 V2 ‘Natural'"
-        description="
-        The Yeezy BOOST 350 V2 lineup continues to grow. We recently had the
-        ‘Carbon’ iteration, and now release details have been locked in for
-        this ‘Natural’ joint. Revealed by Yeezy Mafia earlier this year, the
-        shoe was originally called ‘Abez’, which translated to ‘Tin’ in
-        Hebrew. It’s now undergone a name change, and will be referred to as
-        ‘Natural’."
+        headline="Release Details: The Croissant BOOST 350 V2 ‘Natural'"
+        description="Oat cake pie apple pie pastry croissant ice cream biscuit tootsie roll. Gummies macaroon cake cookie icing ice cream chocolate bar tart cake. Jelly sweet tiramisu candy canes cookie. Liquorice candy canes gummi bears candy candy canes. Dessert chocolate pudding gummi bears cookie chocolate bar pastry fruitcake lollipop. Cookie chocolate cake muffin. Dessert icing wafer cookie. Pudding pudding tiramisu halvah tootsie roll jelly. Biscuit danish tootsie roll candy canes. Danish powder icing donut. Chupa chups brownie chocolate halvah dragée cookie gummi bears. Sweet cotton candy apple pie powder. Brownie fruitcake marzipan cake cake."
       />
       <Grid layout="B">
         {featured.slice(3, 6).map(({ node }, i) => (
